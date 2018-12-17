@@ -1,0 +1,4 @@
+#Sat Dec 15 20:33:32 PST 2018
+base.0=/Users/pauloschmidt/Downloads/android-fundamentals-apps-v2-master/DroidCafeOptions/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
